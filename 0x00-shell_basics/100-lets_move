@@ -1,2 +1,3 @@
 #!/bin/bash
 mv README.md /tmp/u
+Move the file betty from /tmp/ to /tmp/my_first_directory
